@@ -82,7 +82,7 @@ switch (month) {
 }
 
 
-const userEmail = []
+const userEmail = []  // true , empty string false
 
 if (userEmail) {
     console.log("Got user email");
